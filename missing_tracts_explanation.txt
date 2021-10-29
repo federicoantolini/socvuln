@@ -1,0 +1,93 @@
+Indices for the following tracts are:
+SOVI = 0
+HIERARCH = -0.7163
+PROFILES = 3
+
+
+1400000US34029980000    Census Tract 9800, Ocean County, New Jersey
+34029980000
+0 population, 0 households, 0 or non-available indicators
+Coastal park
+
+1400000US36081009900    Census Tract 99, Queens County, New York
+36081009900
+0 population, 0 households, 0 or non-available indicators
+Astoria Park
+
+1400000US36081017100    Census Tract 171, Queens County, New York
+36081017100
+0 population, 0 households, 0 or non-available indicators
+Amtrak station, railway lines, facilities and spaces
+
+1400000US36081060701    Census Tract 607.01, Queens County, New York
+36081060701
+0 population, 0 households, 0 or non-available indicators
+Mount Olivet Cemetery
+
+1400000US36081062400    Census Tract 624, Queens County, New York
+36081062400
+0 population, 0 households, 0 or non-available indicators
+Old Springfield Cemetery
+
+1400000US36081021900     Census Tract 219, Queens County, New York
+36081021900
+0 population, 0 households, 0 or non-available indicators
+Looks like an industrial area, depots, warehouses, abandoned stuff
+
+1400000US36081022900    Census Tract 229, Queens County, New York
+36081022900
+0 population, 0 households, 0 or non-available indicators
+Mount Zion Cemetery
+
+1400000US36081005000    Census Tract 50, Queens County, New York
+36081005000
+0 population, 0 households, 0 or non-available indicators
+Bayside Cemetery
+
+1400000US36081079300    Census Tract 793, Queens County, New York
+36081079300
+0 population, 0 households, 0 or non-available indicators
+Mount Hebron Cemetery
+
+1400000US36005002400    Census Tract 24, Bronx County, New York
+S36005002400
+0 population, 0 households, 0 or non-available indicators
+Sound View Park
+
+1400000US36061021703    Census Tract 217.03, New York County, New York
+36061021703
+0 population, 0 households, 0 or non-available indicators
+Saint Nicholas Park
+
+1400000US36061000100    Census Tract 1, New York County, New York
+36061000100
+0 population, 0 households, 0 or non-available indicators
+Ellis and Liberty Island
+
+1400000US36061031900    Census Tract 319, New York County, New York
+36061031900
+0 population, 0 households, 0 or non-available indicators
+The Battery (park)
+
+1400000US36061031100    Census Tract 311, New York County, New York
+36061031100
+0 population, 0 households, 0 or non-available indicators
+Highbridge Park
+
+1400000US36047040700    Census Tract 407, Kings County, New York
+36047040700
+0 population, 0 households, 0 or non-available indicators
+Most Holy Trinity Cemetery
+
+1400000US36047085200    Census Tract 852, Kings County, New York
+36047085200
+0 population, 0 households, 0 or non-available indicators
+Holy Cross Cemetery
+
+1400000US 36047118000    Census Tract 1180, Kings County, New York
+36047118000
+0 population, 0 households, 0 or non-available indicators
+Cypress Hills Cemetery
+
+
+
