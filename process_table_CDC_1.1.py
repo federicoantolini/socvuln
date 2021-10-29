@@ -315,7 +315,7 @@ if __name__ == "__main__":
         tracts_df = pd.read_csv(os.path.join(dataCDC_path, "tracts_"+year+"_coastCounties.csv"),
                                 header=0,
                                 index_col = index_col)        
-        speak_df = pd.read_csv(os.path.join(dataCDC_path,"ACS_12_5YR_B16005_with_ann.csv"),
+        speak_df = pd.read_csv(os.path.join(dataACS_path,"ACS_12_5YR_B16005_with_ann.csv"),       # only to pick the column with full description of the census unit
                          header=0,
                          skiprows=[1],
                          index_col=0)
